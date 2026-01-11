@@ -1,3 +1,5 @@
+# Latihan ujian
+
 print('=' * 40)
 print('      ☕ PROGRAM PEMBELIAN KOPI ☕')
 print('=' * 40)
